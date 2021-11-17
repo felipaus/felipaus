@@ -125,4 +125,4 @@ Soy desarrollador full Stack con capacidad de realizar proyectos web teniendo si
 
 
 ---
-⭐️ From [Felipe Sacnhez](https://github.com/felipaus) 
+⭐️ From [Felipe Sanchez](https://github.com/felipaus) 
