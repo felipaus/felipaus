@@ -117,7 +117,7 @@ Soy desarrollador full Stack con capacidad de realizar proyectos web teniendo si
 
 <div align = "center">
 
-![Parth's Github Status](https://github-readme-stats.vercel.app/api?username=parth-27&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000)
+![Parth's Github Status](https://github-readme-stats.vercel.app/api?username=felipaus&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000)
 
 <hr>
 
