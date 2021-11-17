@@ -51,7 +51,7 @@ Soy desarrollador full Stack con capacidad de realizar proyectos web teniendo si
       </td>
       <td width="25%" align="center">
         <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+        <img height="64px" src="https://lenguajesdeprogramacion.net/wp-content/uploads/2018/08/visual-basic-lenguaje-de-programacion-logo.png">
       </td>
     </tr>
     <tr valign="top">
