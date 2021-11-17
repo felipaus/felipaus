@@ -11,7 +11,7 @@ Soy desarrollador full Stack con capacidad de realizar proyectos web teniendo si
 
 <hr/>
 
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+## 𝗠𝘆 𝗦𝘁𝗮𝗰𝗸
 
 <table>
   <tbody>
@@ -77,7 +77,7 @@ Soy desarrollador full Stack con capacidad de realizar proyectos web teniendo si
 <hr>
 
 <h1 align="center">
-✨ Where you can find me ✨
+✨ Donde Encontrarme ✨
   
   <!-- https://img.shields.io/badge/Linkedin-Parth Patel-blue&?style=social&logo=linkedin -->
 
@@ -91,27 +91,25 @@ Soy desarrollador full Stack con capacidad de realizar proyectos web teniendo si
 
 <p align="center">
   <br/>
-  <a href="https://www.linkedin.com/in/parth-patel-313a40198/">
+  <a href="https://www.linkedin.com/in/felipesanchezfullstack/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
   </a>
   
-  <a href="https://github.com/parth-27">
+  <a href="https://github.com/felipaus">
     <img src="https://img.shields.io/badge/Github-%230A0A0A.svg?&style=flat-square&logo=Github&logoColor=white">  
   </a>
 
 
   <br/>
-  <a href="https://www.facebook.com/profile.php?id=100026103873514">
+  <a href="https://www.facebook.com/felipe231/">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white">  
   </a>
  
-  <a href="https://www.instagram.com/parth._.27/">
+  <a href="https://www.instagram.com/felipesanchez_13/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white">
   </a>
 
-  <a href="https://twitter.com/parthpatel_27">
-    <img src="https://img.shields.io/badge/twitter-%230077D4.svg?&style=flat-square&logo=twitter&logoColor=white">
-  </a>
+  
 </p>
 </h1>
 
@@ -127,4 +125,4 @@ Soy desarrollador full Stack con capacidad de realizar proyectos web teniendo si
 
 
 ---
-⭐️ From [Parth Patel](https://github.com/parth-27) 
+⭐️ From [Felipe Sacnhez](https://github.com/felipaus) 
