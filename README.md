@@ -36,14 +36,14 @@ Soy desarrollador full Stack con capacidad de realizar proyectos web teniendo si
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span><strong>Python</strong>
+        <span><strong>node js</strong>
         </span><br><br><br>
-        <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-128.png">
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg">
       </td>
       <td width="25%" align="center">
         <span><strong>Visual Basic NET</strong>
         </span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/eslint.svg">
+        <img height="64px" src="https://lenguajesdeprogramacion.net/wp-content/uploads/2018/08/visual-basic-lenguaje-de-programacion-logo.png">
       </td>
       <td width="25%" align="center">
         <span>𝗚𝗶𝘁</span><br><br><br>
@@ -51,17 +51,17 @@ Soy desarrollador full Stack con capacidad de realizar proyectos web teniendo si
       </td>
       <td width="25%" align="center">
         <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
-        <img height="64px" src="https://lenguajesdeprogramacion.net/wp-content/uploads/2018/08/visual-basic-lenguaje-de-programacion-logo.png">
+        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span><strong>Django</strong></span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg">
+        <span><strong>PostgresSQL</strong></span><br><br><br>
+        <img height="64px" src="https://live.mrf.io/statics/i/ps/www.muylinux.com/wp-content/uploads/2017/10/postgresql.png?width=1200&enable=upscale">
       </td>
       <td width="25%" align="center">
         <span><strong>Java</strong></span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
+        <img height="64px" src="https://okhosting.com/resources/uploads/2019/01/java.jpg">
       </td>
       <td width="25%" align="center">
         <span><strong>MySql</strong></span><br><br><br>
