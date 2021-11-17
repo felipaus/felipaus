@@ -41,7 +41,7 @@ Soy desarrollador full Stack con capacidad de realizar proyectos web teniendo si
         <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-128.png">
       </td>
       <td width="25%" align="center">
-        <span><strong>𝗘𝘀𝗹𝗶𝗻𝘁</strong>
+        <span><strong>Visual Basic NET</strong>
         </span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/eslint.svg">
       </td>
