@@ -6,7 +6,21 @@
 
 ## About Me
 
-Soy desarrollador full Stack con capacidad de realizar proyectos web teniendo simpe en mente que sea escalable y modularizable para así poder construir en equipo 
+🎨 | Full stack developer de profesión, fui a la universidad para encontrar mi pasión por la programación, que me lleva a disfrutar de la creación de nuevo proyectos y adquirir nuevos conocimientos .
+
+📚 | Después de explorar el mundo de la programación durante mis años universitario, encontré el bootcamp de Henry, donde pude llevar mi educación a otro nivel: aprendí las principales tecnologías utilizadas en desarrollo web (HTML, CSS, JavaScript, NodeJS, Express, React, Redux, SQL, Sequelize, entre otras) creando diversos proyectos desde cero.
+
+👩🏻‍🏫 | Además, conocí y desarrollé una nueva faceta de mis habilidades blandas colaborando con mis compañeros en trabajos y proyectos grupales
+
+🤓 | Hoy, y desde que tengo memoria, busco aprender todo lo posible, no sólo sobre tecnologías y lenguajes. Mi curiosidad no conoce límites, y cualquier entorno en donde encuentre desafíos y posibilidades de crecer profesional y personalmente, es un entorno que quiero explorar.
+
+💬 | Para conocer más sobre mí y ver mi trabajo:
+
+.contacto {
+e-mail: felipesanchez_13@hotmail.com;
+celular: 264-5199017;
+github: /felipaus;
+}
 
 
 <hr/>
