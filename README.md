@@ -28,8 +28,4 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipaus&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000)
-
----
-
 *Gracias por pasar por aquí!* 🚀
