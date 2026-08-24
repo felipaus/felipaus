@@ -3,7 +3,7 @@
 
 - **Stack principal**: Java, Go, Spring, Node.js, bases de datos relacionales (MySQL, PostgreSQL) y no relacionales (Elasticsearch).
 - **Enfoque actual**: seguridad en el ciclo de desarrollo (SDLC), troubleshooting y monitoreo (New Relic, Datadog, Kibana, OpsGenie), y buenas prácticas backend.
-- **Formación**: Licenciatura en Informática (Universidad Siglo 21), Lic. en Ciencias Computacionales (FCEFyN), Bootcamp Java/Spring (Digital House) y formación continua con MercadoPago Developers.
+- **Formación**: Licenciatura en Informática (Universidad Siglo 21), Lic. en Ciencias Computacionales (FCEFyN), Bootcamp Java/Spring (Digital House) y formación continua .
 - **Idiomas**: Español nativo · Inglés (Full professional proficiency).
 - Me gusta aprender constantemente y asumir desafíos donde pueda aportar valor desde mi experiencia.
 
